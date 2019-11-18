@@ -1,6 +1,8 @@
 def base_hash
   monopoly = {
-    
+    :parkplace => {
+      
+    }
   }
 end
 
